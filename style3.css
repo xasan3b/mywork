@@ -1,0 +1,50 @@
+body{
+    background: url(mads-schmidt-rasmussen-567063-unsplash.jpg);
+    background-size: cover
+}
+
+h1 {
+    color:rgb(85, 10, 0.5);
+    text-align: center;
+    border: 5px solid #457991;
+}
+
+h4 {
+    color: aliceblue
+}
+
+p {
+    color: purple;
+
+}
+
+p {
+    color: black;
+    
+}
+
+
+li {
+    /* list-style: none; */
+display: inline-block;    
+}
+ol{
+color:white
+}
+
+ol{
+color: white;
+}
+
+
+
+#div1{
+    color: pink;
+
+}
+
+select{
+    color: red;
+}
+
+
